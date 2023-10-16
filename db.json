@@ -1,4 +1,4 @@
-[{"id":1,
+{[{"id":1,
   "name":"test",
   "description":"testd",
   "startDate":"22-09-2023",
@@ -30,4 +30,4 @@
               "endDate":"29-09-2023",
               "status":"completed",
               "effortRequired":2
-   }]
+   }]}
